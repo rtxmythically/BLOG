@@ -1,0 +1,110 @@
+.header {
+  position: fixed; 
+  display: flex;
+  z-index: 1;
+  top: 0; 
+  left: 80px;
+  width: 100%; 
+  background-color: #fff;
+  height: 60px;
+  padding: 5px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  transition: top 0.2s;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.header.hidden {
+  top: -100px;
+}
+.Rightheader {
+  display: flex;
+  align-items: center; 
+  margin-right: 200px;
+  gap: 20px; 
+}
+.header h1 {
+  margin: 0;
+}
+.home{
+  display: flex;
+  color: black;
+  text-decoration: none;
+  font-size: 20px;
+  padding: 10px;
+  font-weight: bold; 
+  justify-content: center;
+  align-items: center;
+  transition: background-color 0.3s, transform 0.3s; 
+  
+}
+.x img {
+  height: 20px;
+  padding-right: 20px; 
+  background-repeat: no-repeat;
+  background-position: center;
+  transition: background-color 0.3s, transform 0.3s; 
+}
+.linkedin img {
+  height: 30px;
+  background-repeat: no-repeat;
+  background-position: center;
+  transition: background-color 0.3s, transform 0.3s; 
+}
+.donate {
+  display: flex;
+  color: black;
+  padding: 10px 30px; 
+  text-decoration: none; 
+  font-size: 20px; 
+  font-weight: bold; 
+  justify-content: center;
+  align-items: center;
+  transition: background-color 0.3s, transform 0.3s; 
+}
+.BTC{
+  height: 20px;
+  background-color: white;
+}
+.english{
+  display: flex;
+  color: black;
+  text-decoration: none;
+  font-size: 20px;
+  padding: 20px;
+  font-weight: bold; 
+  justify-content: center;
+  align-items: center;
+  transition: background-color 0.3s, transform 0.3s; 
+  
+}
+.donate:hover {
+  transform: scale(1.05); 
+}
+
+.donate:active {
+  transform: scale(0.95); 
+}
+.x:hover {
+  transform: scale(1.05); 
+}
+
+.x:active {
+  transform: scale(0.95); 
+}
+.linkedin:hover {
+  transform: scale(1.05); 
+}
+
+.liink:active {
+  transform: scale(0.95); 
+}
+.home:hover {
+  transform: scale(1.05); 
+}
+
+.home:active {
+  transform: scale(0.95); 
+}
+
+

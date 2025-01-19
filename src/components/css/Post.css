@@ -1,0 +1,9 @@
+.Post{
+    display: flex;
+    margin-top: 150px;
+    margin-left: 150px;
+    margin-right: 100px;
+    background-color: white;
+    border: 2px solid #f4f4f4;
+  }
+  

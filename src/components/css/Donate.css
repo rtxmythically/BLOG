@@ -1,0 +1,41 @@
+.donate-container {
+  display: flex;
+  margin-top: 150px;
+  margin-left: 150px;
+  margin-right: 100px;
+  background-color: white;
+  border: 2px solid #f4f4f4;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr); /* 2格 */
+  gap: 20px; /* 間距 */
+  padding: 20px;
+}
+
+.address {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  border: 1px solid #ccc;
+  padding: 20px;
+  border-radius: 8px;
+  background-color: #f9f9f9;
+}
+
+.chain-name {
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.address img {
+  max-width: 100%;
+  height: auto;
+  margin-bottom: 10px;
+}
+
+.address-text {
+  display:flex;
+  word-wrap: break-word;
+  font-family: monospace;
+  word-break: break-all;
+}
