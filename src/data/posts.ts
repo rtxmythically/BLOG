@@ -1,5 +1,11 @@
 export const posts = [
   {
+    id: 11,
+    title: "中心化交易所(CEX)中心化交易所(DEX)",
+    image: "https://firebasestorage.googleapis.com/v0/b/jimmy-lin-blog.appspot.com/o/CEX%20DEX%2FCEX%20DEX.png?alt=media&token=4c09ea40-b84d-4258-9fe5-40a9f3285c21",
+    date: "2024年12月19日"
+  },
+  {
     id: 10,
     title: "非同質化代幣(NFT)",
     image: "https://firebasestorage.googleapis.com/v0/b/jimmy-lin-blog.appspot.com/o/NFT%2FNFT.webp?alt=media&token=92c58d09-1d37-43eb-ad9b-eaf6e24872a7",
