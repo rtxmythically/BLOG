@@ -67,7 +67,7 @@ const One: React.FC = () => {
                         <h4>萊特幣具有更快的區塊生成時間(2.5 分鐘)，以及較低的交易費用，使其成為一種更快的支付選擇。</h4>
                         <h3>4. Kaspa(KAS)</h3>
                         <div className='img'>
-                              <img src="https://firebasestorage.googleapis.com/v0/b/jimmy-lin-blog.appspot.com/o/%E4%BB%80%E9%BA%BC%E6%98%AF%E5%B7%A5%E4%BD%9C%E9%87%8F%E8%AD%89%E6%98%8E(PoW)%3F%2FKaspa.jpg?alt=media&token=19465189-9901-4939-8449-265e781d4a74https://firebasestorage.googleapis.com/v0/b/jimmy-lin-blog.appspot.com/o/%E4%BB%80%E9%BA%BC%E6%98%AF%E5%B7%A5%E4%BD%9C%E9%87%8F%E8%AD%89%E6%98%8E(PoW)%3F%2FETC.jpeg?alt=media&token=c67232e4-5931-4e55-a5f0-876683f6f80f" />
+                              <img src="https://firebasestorage.googleapis.com/v0/b/jimmy-lin-blog.appspot.com/o/%E4%BB%80%E9%BA%BC%E6%98%AF%E5%B7%A5%E4%BD%9C%E9%87%8F%E8%AD%89%E6%98%8E(PoW)%3F%2FKaspa.jpg?alt=media&token=19465189-9901-4939-8449-265e781d4a74" />
                         </div>
                         <h3>概述</h3>
                         <h4>Kaspa 是一種相對較新的 PoW 加密貨幣，旨在提供高速且具擴展性的去中心化交易網絡。Kaspa 的設計目標是解決傳統區塊鏈中存在的交易速度和可擴展性問題。</h4>

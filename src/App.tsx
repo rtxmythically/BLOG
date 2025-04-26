@@ -14,7 +14,7 @@ const App: React.FC = () => {
   return (
   <>
     <Helmet>
-        <title>區塊分享</title>
+        <title>Jimmy Lin's Blog</title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
       </Helmet>
     <Router>
