@@ -4,6 +4,11 @@ A personal blog built with **React** and **Vite**, dedicated to sharing and orga
 
 ---
 
+## 🌍 Live Website
+
+🔗 **[https://jimmy-lin-blog.web.app](https://jimmy-lin-blog.web.app)**
+---
+
 ## 🚀 Overview
 
 This blog serves as a record of blockchain fundamentals and essential technical concepts, helping beginners understand the Web3 world step by step.  
